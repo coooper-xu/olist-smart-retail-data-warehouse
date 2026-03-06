@@ -3,3 +3,5 @@ cleaned_data/
 database/
 __pycache__/
 .venv/
+.idea/
+Untitled.ipynb
